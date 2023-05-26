@@ -1,6 +1,8 @@
 # clj-fripp
 
-A Clojure library for Fripp logic examples and experiments
+A Clojure library for Fripp logic examples and experiments.
+
+"Fripp" stands for "Functional Relational Programming".
 
 ## Usage
 
