@@ -1,0 +1,4 @@
+{:lint-as {clojure.core.logic/fresh clojure.core/fn
+           clojure.core.logic.pldb/db-rel clj-kondo.lint-as/def-catch-all
+           clojure.core.logic/defne clj-kondo.lint-as/def-catch-all
+           clojure.core.logic/run-db* clj-kondo.lint-as/def-catch-all}}
