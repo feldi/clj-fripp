@@ -288,7 +288,7 @@
 
 ;; examples
 (comment
-  
+
   (declare ?1 ?2)
 
   (infer-1 (cl/conso ?1 ?2 (cl/lcons 1 2)))
